@@ -1,0 +1,15 @@
+.body_background 
+{
+    background-image:url(hOye.gif);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+background-color: aliceblue;
+background-size:cover;
+border-color: antiquewhite;
+border-style:groove;
+border-width:15px;
+}
+
